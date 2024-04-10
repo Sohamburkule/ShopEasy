@@ -1,0 +1,33 @@
+.footer-main{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    padding: 10px;
+    margin-top: 20px;
+    border-top: 1px solid black;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.links div{
+    color: black;
+    margin: 0.5vw 0.7vw;
+    cursor: pointer;
+    font-weight: 500;
+    font-style: oblique;
+}
+
+.links div:hover{
+    color: gray;
+}
+
+.contact-area p{
+    display: inline-block;
+    margin: 0 10px;
+    font-size: medium;
+    font-weight: 500;
+}
