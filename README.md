@@ -147,10 +147,9 @@ To set up ShopEasy locally, follow these steps:
 - Browse products, add items to the cart, and proceed to checkout.
 - View order history and manage account settings.
 
-##Authors
-
-1. Gaurav Chaughule 
-2. Soham Burkule
+## Contributors
+- [Gaurav chaughule](https://github.com/gauravchaughule001)
+- [Soham Burkule](https://github.com/Sohamburkule)
 
 ## Contributing
 
